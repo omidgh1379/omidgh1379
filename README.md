@@ -52,7 +52,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.oursky.com%2F2018%2F02%2F14%2Ftensorflow-business-applications-ai-hong-kong%2F&psig=AOvVaw3uvHMa15HE5cxV-TzwQKHd&ust=1708458644233000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi90saWuIQDFQAAAAAdAAAAABAE" height="40" alt="tensorflow logo"  />
   <img width="12" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit_learn_logo"  />
