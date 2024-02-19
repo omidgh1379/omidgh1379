@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h3 align="center">Hey 👋 I'm Ehsan</h3>
+<h3 align="center">Hey 👋 I'm Omid Ghorbani</h3>
 
 ###
 
-<h3 align="center">Data Scientist | Data Science M.Sc. student at Sapienza | Passionate about DS, ML, DL & Entrepreneurship</h3>
+<h3 align="center">Data Scientist |  Data science M.S. Student at Sapienza | Passionate about Deep learning & RL & Entrepreneurship | Tech Lover </h3>
 
 ###
 
